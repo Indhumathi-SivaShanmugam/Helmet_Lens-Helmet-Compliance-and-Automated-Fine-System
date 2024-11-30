@@ -62,7 +62,9 @@ The project is implemented using a YOLO (You Only Look Once) object detection mo
 ### **Completed**  
 - YOLOv8 model trained and functioning for helmet detection and license plate identification.  
 - Initial integration of PaddleOCR.
--![image](https://github.com/user-attachments/assets/36745c11-c70d-4bc5-9cad-e790a81f2a64) ![image](https://github.com/user-attachments/assets/c5cd1b58-c378-4d5d-9feb-01de12129530)
+  
+----
+ ![image](https://github.com/user-attachments/assets/36745c11-c70d-4bc5-9cad-e790a81f2a64) ![image](https://github.com/user-attachments/assets/c5cd1b58-c378-4d5d-9feb-01de12129530)
 
 
 
